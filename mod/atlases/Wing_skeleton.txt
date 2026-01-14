@@ -1,0 +1,20 @@
+{"frames": {
+
+"Wing_skeleton":
+{
+	"frame": {"x":0,"y":0,"w":120,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":20},
+	"sourceSize": {"w":120,"h":20}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Wing_skeleton.png",
+	"format": "RGBA8888",
+	"size": {"w":120,"h":20},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:68b58e5e40cac2b0542b57a0ad3afd4f:dca4ee46692c24ace7059b457b1589a0:a8179573b007acecc35a86e90aaed625$"
+}
+}

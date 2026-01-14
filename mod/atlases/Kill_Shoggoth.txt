@@ -1,0 +1,20 @@
+{"frames": {
+
+"Kill_Shoggoth":
+{
+	"frame": {"x":0,"y":0,"w":28,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":18},
+	"sourceSize": {"w":28,"h":18}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Kill_Shoggoth.png",
+	"format": "RGBA8888",
+	"size": {"w":28,"h":18},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:68b58e5e40cac2b0542b57a0ad3afd4f:dca4ee46692c24ace7059b457b1589a0:a8179573b007acecc35a86e90aaed625$"
+}
+}

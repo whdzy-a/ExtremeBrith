@@ -1,0 +1,10 @@
+﻿{
+	"id": "Extreme_Brith",
+	"name": "Extreme_Brith",
+	"version": "0.1.0",
+	"authors": "Author",
+	"description": "A template for making SlugBase mods.",
+	"requirements": [ "slime-cubed.slugbase","fisobs" ],
+	"requirements_names": [ "SlugBase","Fisobs" ],
+	"tags": [ "Custom Slugcat" ]
+}
