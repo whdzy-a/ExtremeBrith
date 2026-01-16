@@ -1,0 +1,20 @@
+{"frames": {
+
+"icon_MiddleBoneBall":
+{
+	"frame": {"x":0,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "icon_MiddleBoneBall.png",
+	"format": "RGBA8888",
+	"size": {"w":16,"h":16},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:68b58e5e40cac2b0542b57a0ad3afd4f:dca4ee46692c24ace7059b457b1589a0:a8179573b007acecc35a86e90aaed625$"
+}
+}
